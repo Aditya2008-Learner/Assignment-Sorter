@@ -1,0 +1,43 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 6 EXAMINATION
+CS502: Cloud Security & Virtualization (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Design secure cloud architectures
+  2. Implement container and Kubernetes security controls
+
+============================================================
+
+SECTION A: CLOUD COMPUTING FUNDAMENTALS (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cloud Service Models (IaaS, PaaS, SaaS)' as covered in Cloud Computing Fundamentals.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Deployment Models (Public, Private, Hybrid)' as covered in Cloud Computing Fundamentals.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'AWS/Azure/GCP Architecture' as covered in Cloud Computing Fundamentals.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cloud Networking' as covered in Cloud Computing Fundamentals.
+
+SECTION B: VIRTUALIZATION & CONTAINER SECURITY (25 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Hypervisors (Type 1 & 2)' as covered in Virtualization & Container Security.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'VM Escape Attacks' as covered in Virtualization & Container Security.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Docker Security' as covered in Virtualization & Container Security.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Kubernetes Security' as covered in Virtualization & Container Security.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Container Orchestration Security' as covered in Virtualization & Container Security.
+
+SECTION C: CLOUD SECURITY CONTROLS (25 MARKS)
+
+10. (10 Marks) Analyze 'Identity & Access Management (IAM)' from Cloud Security Controls and explain its role in modern security protocols.
+11. (10 Marks) Analyze 'Cloud Security Posture Management' from Cloud Security Controls and explain its role in modern security protocols.
+12. (10 Marks) Analyze 'Encryption in the Cloud' from Cloud Security Controls and explain its role in modern security protocols.
+13. (10 Marks) Analyze 'Cloud Access Security Brokers (CASB)' from Cloud Security Controls and explain its role in modern security protocols.
+14. (10 Marks) Analyze 'Security Information & Event Management (SIEM)' from Cloud Security Controls and explain its role in modern security protocols.
+
+SECTION D: CLOUD COMPLIANCE & FORENSICS (50 MARKS)
+
+15. (10 Marks) Analyze 'Shared Responsibility Model' from Cloud Compliance & Forensics and explain its role in modern security protocols.
+16. (10 Marks) Analyze 'Cloud Compliance Frameworks' from Cloud Compliance & Forensics and explain its role in modern security protocols.
+17. (10 Marks) Analyze 'Cloud Forensics Challenges' from Cloud Compliance & Forensics and explain its role in modern security protocols.
+18. (10 Marks) Analyze 'Serverless Security' from Cloud Compliance & Forensics and explain its role in modern security protocols.
+19. (10 Marks) Analyze 'Zero Trust Architecture in Cloud' from Cloud Compliance & Forensics and explain its role in modern security protocols.
+
+END OF QUESTION PAPER

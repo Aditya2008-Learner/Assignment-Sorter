@@ -1,0 +1,42 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 2 EXAMINATION
+CS103: Digital Logic & Computer Architecture (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Design and analyze combinational and sequential digital circuits
+  2. Understand processor architecture and instruction execution models
+
+============================================================
+
+SECTION A: DIGITAL LOGIC DESIGN (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Boolean Algebra & Logic Gates' as covered in Digital Logic Design.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Karnaugh Maps & Quine-McCluskey' as covered in Digital Logic Design.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Combinational Circuits (Adders, Multiplexers, Decoders)' as covered in Digital Logic Design.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Sequential Circuits (Flip-Flops, Counters, Registers)' as covered in Digital Logic Design.
+
+SECTION B: DATA REPRESENTATION & ARITHMETIC (25 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Number Systems & Conversions' as covered in Data Representation & Arithmetic.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Signed/Unsigned Representation' as covered in Data Representation & Arithmetic.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'BCD & Gray Code' as covered in Data Representation & Arithmetic.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Parallel Adders & Subtractors' as covered in Data Representation & Arithmetic.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Booth's Multiplication Algorithm' as covered in Data Representation & Arithmetic.
+
+SECTION C: CPU ARCHITECTURE (8086 / RISC-V) (25 MARKS)
+
+10. (10 Marks) Discuss the core principles of '8086 Architecture (BIU, EU, Registers)' within CPU Architecture (8086 / RISC-V), including definitions, applications, and critical analysis.
+11. (10 Marks) Discuss the core principles of 'Addressing Modes' within CPU Architecture (8086 / RISC-V), including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Instruction Set' within CPU Architecture (8086 / RISC-V), including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'RISC-V ISA Fundamentals' within CPU Architecture (8086 / RISC-V), including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Pipelining Concepts' within CPU Architecture (8086 / RISC-V), including definitions, applications, and critical analysis.
+
+SECTION D: MEMORY SYSTEMS & I/O (40 MARKS)
+
+15. (10 Marks) Discuss the core principles of 'Cache Memory (Associativity, Mapping)' within Memory Systems & I/O, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Virtual Memory & Paging' within Memory Systems & I/O, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'I/O Techniques (Programmed, Interrupt, DMA)' within Memory Systems & I/O, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Bus Architectures' within Memory Systems & I/O, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

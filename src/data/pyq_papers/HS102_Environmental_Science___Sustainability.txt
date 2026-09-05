@@ -1,0 +1,32 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 2 EXAMINATION
+HS102: Environmental Science & Sustainability (Credits: 2)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Understand environmental challenges and their engineering solutions
+  2. Apply sustainability principles in IT system design
+
+============================================================
+
+SECTION A: ECOSYSTEM & BIODIVERSITY (15 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Ecosystem Structure & Function' as covered in Ecosystem & Biodiversity.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Biodiversity & Conservation' as covered in Ecosystem & Biodiversity.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Environmental Impact Assessment' as covered in Ecosystem & Biodiversity.
+
+SECTION B: POLLUTION & CLIMATE CHANGE (20 MARKS)
+
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Air, Water & Soil Pollution' as covered in Pollution & Climate Change.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'E-Waste Management' as covered in Pollution & Climate Change.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Climate Change Mechanisms' as covered in Pollution & Climate Change.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Green Computing & Energy-Efficient IT' as covered in Pollution & Climate Change.
+
+SECTION C: SUSTAINABLE DEVELOPMENT (20 MARKS)
+
+8. (10 Marks) Analyze 'UN Sustainable Development Goals' from Sustainable Development. Build an end-to-end appealing ML model (data preprocessing, feature engineering, model selection, evaluation) to demonstrate the concept with performance metrics.
+9. (10 Marks) Analyze 'Circular Economy' from Sustainable Development. Build an end-to-end appealing ML model (data preprocessing, feature engineering, model selection, evaluation) to demonstrate the concept with performance metrics.
+10. (10 Marks) Analyze 'Renewable Energy Sources' from Sustainable Development. Build an end-to-end appealing ML model (data preprocessing, feature engineering, model selection, evaluation) to demonstrate the concept with performance metrics.
+11. (10 Marks) Analyze 'Sustainable Software Engineering' from Sustainable Development. Build an end-to-end appealing ML model (data preprocessing, feature engineering, model selection, evaluation) to demonstrate the concept with performance metrics.
+
+END OF QUESTION PAPER

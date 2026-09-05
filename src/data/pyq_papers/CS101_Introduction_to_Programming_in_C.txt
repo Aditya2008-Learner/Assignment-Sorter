@@ -1,0 +1,43 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 1 EXAMINATION
+CS101: Introduction to Programming in C (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Write correct and efficient C programs
+  2. Use pointers and dynamic memory effectively
+  3. Implement file-based data processing
+
+============================================================
+
+SECTION A: FUNDAMENTALS OF C PROGRAMMING (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Data Types & Operators' as covered in Fundamentals of C Programming.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Input/Output Functions' as covered in Fundamentals of C Programming.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Control Flow (if, switch, loops)' as covered in Fundamentals of C Programming.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Functions & Recursion' as covered in Fundamentals of C Programming.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Storage Classes' as covered in Fundamentals of C Programming.
+
+SECTION B: ARRAYS, STRINGS & POINTERS (25 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of '1D & 2D Arrays' as covered in Arrays, Strings & Pointers.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'String Manipulation' as covered in Arrays, Strings & Pointers.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Pointer Arithmetic' as covered in Arrays, Strings & Pointers.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Arrays of Pointers' as covered in Arrays, Strings & Pointers.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Dynamic Memory Allocation (malloc, calloc, realloc, free)' as covered in Arrays, Strings & Pointers.
+
+SECTION C: STRUCTURES, UNIONS & FILE HANDLING (20 MARKS)
+
+11. (10 Marks) Discuss the core principles of 'Structures & Unions' within Structures, Unions & File Handling, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Bit Fields' within Structures, Unions & File Handling, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'File I/O (fopen, fclose, fread, fwrite, fprintf, fscanf)' within Structures, Unions & File Handling, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Random Access Files' within Structures, Unions & File Handling, including definitions, applications, and critical analysis.
+
+SECTION D: PREPROCESSOR, RECURSION & PROBLEM SOLVING (40 MARKS)
+
+15. (10 Marks) Discuss the core principles of 'Preprocessor Directives' within Preprocessor, Recursion & Problem Solving, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Macros & Conditional Compilation' within Preprocessor, Recursion & Problem Solving, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Recursive Algorithms (Fibonacci, Towers of Hanoi)' within Preprocessor, Recursion & Problem Solving, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Algorithmic Problem Solving' within Preprocessor, Recursion & Problem Solving, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

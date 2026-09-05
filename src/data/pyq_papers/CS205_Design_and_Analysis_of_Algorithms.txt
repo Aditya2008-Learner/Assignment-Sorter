@@ -1,0 +1,48 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 3 EXAMINATION
+CS205: Design and Analysis of Algorithms (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Design efficient algorithms using multiple paradigm strategies
+  2. Prove algorithm correctness using loop invariants and induction
+  3. Classify problems using NP-completeness theory
+
+============================================================
+
+SECTION A: ALGORITHM ANALYSIS & PARADIGMS (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Asymptotic Notations (O, Omega, Theta, o, omega)' as covered in Algorithm Analysis & Paradigms.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Master Theorem & Recurrence Relations' as covered in Algorithm Analysis & Paradigms.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Divide and Conquer (Merge Sort, Quick Sort, Closest Pair)' as covered in Algorithm Analysis & Paradigms.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Decrease and Conquer (Binary Search, Insertion Sort)' as covered in Algorithm Analysis & Paradigms.
+
+SECTION B: GREEDY ALGORITHMS (30 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Greedy Choice Property & Optimal Substructure' as covered in Greedy Algorithms.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Fractional Knapsack' as covered in Greedy Algorithms.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Job Sequencing with Deadlines' as covered in Greedy Algorithms.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Huffman Coding' as covered in Greedy Algorithms.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Activity Selection' as covered in Greedy Algorithms.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Kruskal's & Prim's MST' as covered in Greedy Algorithms.
+
+SECTION C: DYNAMIC PROGRAMMING (35 MARKS)
+
+11. (10 Marks) Explain in detail the theory behind 'Overlapping Subproblems & Optimal Substructure' from Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+12. (10 Marks) Explain in detail the theory behind '0/1 Knapsack' from Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+13. (10 Marks) Explain in detail the theory behind 'Longest Common Subsequence' from Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+14. (10 Marks) Explain in detail the theory behind 'Matrix Chain Multiplication' from Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+15. (10 Marks) State Dijkstra's shortest path algorithm and trace it on a 6-node weighted directed graph, showing all relaxations. Why does it fail with negative edge weights? Replace it with Bellman-Ford and prove its correctness using induction.
+16. (10 Marks) Explain in detail the theory behind 'Travelling Salesman Problem (Approximation)' from Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+17. (10 Marks) Explain in detail the theory behind 'Edit Distance' from Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+
+SECTION D: ADVANCED ALGORITHMIC TOPICS (60 MARKS)
+
+18. (10 Marks) Explain in detail the theory behind 'NP-Completeness (P, NP, NP-Hard, NP-Complete)' from Advanced Algorithmic Topics, supporting with appropriate examples, pseudo-code, and complexity analysis.
+19. (10 Marks) Explain in detail the theory behind 'Reductions & Cook-Levin Theorem' from Advanced Algorithmic Topics, supporting with appropriate examples, pseudo-code, and complexity analysis.
+20. (10 Marks) Explain in detail the theory behind 'Approximation Algorithms' from Advanced Algorithmic Topics, supporting with appropriate examples, pseudo-code, and complexity analysis.
+21. (10 Marks) Explain in detail the theory behind 'Randomized Algorithms (Quickselect, randomized BST)' from Advanced Algorithmic Topics, supporting with appropriate examples, pseudo-code, and complexity analysis.
+22. (10 Marks) Explain in detail the theory behind 'Backtracking (N-Queens, Sudoku Solver)' from Advanced Algorithmic Topics, supporting with appropriate examples, pseudo-code, and complexity analysis.
+23. (10 Marks) Explain in detail the theory behind 'Branch and Bound' from Advanced Algorithmic Topics, supporting with appropriate examples, pseudo-code, and complexity analysis.
+
+END OF QUESTION PAPER

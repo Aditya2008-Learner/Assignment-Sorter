@@ -1,0 +1,37 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 1 EXAMINATION
+HS101: Professional Communication & Ethics (Credits: 2)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Communicate effectively in professional engineering contexts
+  2. Apply ethical reasoning to engineering decisions
+
+============================================================
+
+SECTION A: COMMUNICATION FUNDAMENTALS (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Barriers to Communication' as covered in Communication Fundamentals.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Verbal & Non-Verbal Communication' as covered in Communication Fundamentals.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Business Writing Skills' as covered in Communication Fundamentals.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Report Writing' as covered in Communication Fundamentals.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Technical Presentation Techniques' as covered in Communication Fundamentals.
+
+SECTION B: PROFESSIONAL ETHICS & ENGINEERING PRACTICE (30 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Engineering Ethics' as covered in Professional Ethics & Engineering Practice.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Code of Conduct' as covered in Professional Ethics & Engineering Practice.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Intellectual Property Rights' as covered in Professional Ethics & Engineering Practice.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cyber Ethics' as covered in Professional Ethics & Engineering Practice.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Data Privacy Principles' as covered in Professional Ethics & Engineering Practice.
+11. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Environmental Responsibility' as covered in Professional Ethics & Engineering Practice.
+
+SECTION C: EMPLOYABILITY SKILLS (25 MARKS)
+
+12. (10 Marks) Discuss the core principles of 'Resume Building' within Employability Skills, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Interview Preparation' within Employability Skills, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Group Discussion Techniques' within Employability Skills, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'Workplace Etiquette' within Employability Skills, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Team Leadership' within Employability Skills, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

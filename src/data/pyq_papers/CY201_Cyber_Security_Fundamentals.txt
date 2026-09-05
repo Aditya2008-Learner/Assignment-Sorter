@@ -1,0 +1,43 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 4 EXAMINATION
+CY201: Cyber Security Fundamentals (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Apply cryptographic techniques for secure communication
+  2. Configure network security infrastructure
+  3. Conduct vulnerability assessments and penetration tests
+
+============================================================
+
+SECTION A: SECURITY FOUNDATIONS (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'CIA Triad (Confidentiality, Integrity, Availability)' as covered in Security Foundations.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Security Threats & Attack Vectors' as covered in Security Foundations.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Risk Assessment & Management' as covered in Security Foundations.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Security Policies & Governance' as covered in Security Foundations.
+
+SECTION B: CRYPTOGRAPHY BASICS (20 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Symmetric Key Cryptography (DES, AES)' as covered in Cryptography Basics.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Asymmetric Key Cryptography (RSA, ECC)' as covered in Cryptography Basics.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Hash Functions (MD5, SHA-256)' as covered in Cryptography Basics.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Digital Signatures & Certificates' as covered in Cryptography Basics.
+
+SECTION C: NETWORK SECURITY (25 MARKS)
+
+9. (10 Marks) Analyze 'Firewall Types & Configurations' from Network Security and explain its role in modern security protocols.
+10. (10 Marks) Analyze 'Intrusion Detection/Prevention Systems (IDS/IPS)' from Network Security and explain its role in modern security protocols.
+11. (10 Marks) Analyze 'VPN Technologies' from Network Security and explain its role in modern security protocols.
+12. (10 Marks) Analyze 'SSL/TLS Implementation' from Network Security and explain its role in modern security protocols.
+13. (10 Marks) Analyze 'Wireless Security (WPA2, WPA3)' from Network Security and explain its role in modern security protocols.
+
+SECTION D: SECURITY PRACTICES (50 MARKS)
+
+14. (10 Marks) Analyze 'Secure Coding Practices' from Security Practices and explain its role in modern security protocols.
+15. (10 Marks) Analyze 'Vulnerability Assessment' from Security Practices and explain its role in modern security protocols.
+16. (10 Marks) Analyze 'Penetration Testing Methodologies' from Security Practices and explain its role in modern security protocols.
+17. (10 Marks) Analyze 'Incident Response & Forensics' from Security Practices and explain its role in modern security protocols.
+18. (10 Marks) Analyze 'Compliance Standards (ISO 27001, GDPR)' from Security Practices and explain its role in modern security protocols.
+
+END OF QUESTION PAPER

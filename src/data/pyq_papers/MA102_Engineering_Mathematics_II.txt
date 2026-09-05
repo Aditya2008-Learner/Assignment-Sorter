@@ -1,0 +1,46 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 2 EXAMINATION
+MA102: Engineering Mathematics II (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Apply transform methods to solve engineering differential equations
+  2. Use probability theory for statistical inference in engineering
+
+============================================================
+
+SECTION A: LINEAR ALGEBRA & VECTOR CALCULUS (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Matrix Diagonalization' as covered in Linear Algebra & Vector Calculus.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Sylvester's Law of Inertia' as covered in Linear Algebra & Vector Calculus.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Vector Differentiation (Gradient, Divergence, Curl)' as covered in Linear Algebra & Vector Calculus.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Vector Integration (Line, Surface, Volume)' as covered in Linear Algebra & Vector Calculus.
+
+SECTION B: COMPLEX ANALYSIS (30 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Analytic Functions' as covered in Complex Analysis.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cauchy-Riemann Equations' as covered in Complex Analysis.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Harmonic Functions' as covered in Complex Analysis.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Conformal Mapping' as covered in Complex Analysis.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Contour Integration' as covered in Complex Analysis.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Residue Theorem' as covered in Complex Analysis.
+
+SECTION C: LAPLACE & FOURIER TRANSFORMS (25 MARKS)
+
+11. (10 Marks) Discuss the core principles of 'Laplace Transform Properties & Inverse' within Laplace & Fourier Transforms, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Convolution Theorem' within Laplace & Fourier Transforms, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Application to ODEs & PDEs' within Laplace & Fourier Transforms, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Fourier Series' within Laplace & Fourier Transforms, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'Fourier Transform & Inverse' within Laplace & Fourier Transforms, including definitions, applications, and critical analysis.
+
+SECTION D: PROBABILITY & STATISTICS (70 MARKS)
+
+16. (10 Marks) Discuss the core principles of 'Discrete & Continuous Distributions' within Probability & Statistics, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Joint Distributions' within Probability & Statistics, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Central Limit Theorem' within Probability & Statistics, including definitions, applications, and critical analysis.
+19. (10 Marks) Discuss the core principles of 'Bayesian Estimation' within Probability & Statistics, including definitions, applications, and critical analysis.
+20. (10 Marks) Discuss the core principles of 'Hypothesis Testing' within Probability & Statistics, including definitions, applications, and critical analysis.
+21. (10 Marks) Discuss the core principles of 'Regression & Correlation' within Probability & Statistics, including definitions, applications, and critical analysis.
+22. (10 Marks) Discuss the core principles of 'ANOVA' within Probability & Statistics, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

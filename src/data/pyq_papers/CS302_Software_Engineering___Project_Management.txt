@@ -1,0 +1,41 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 4 EXAMINATION
+CS302: Software Engineering & Project Management (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Apply SDLC models and agile practices to software projects
+  2. Design software systems using UML and architectural patterns
+
+============================================================
+
+SECTION A: SOFTWARE DEVELOPMENT LIFECYCLE (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'SDLC Models (Waterfall, Spiral, V-Model)' as covered in Software Development Lifecycle.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Agile Methodologies (Scrum, Kanban, XP)' as covered in Software Development Lifecycle.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Requirements Engineering' as covered in Software Development Lifecycle.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Use Case & User Story Modeling' as covered in Software Development Lifecycle.
+
+SECTION B: SOFTWARE DESIGN & ARCHITECTURE (20 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'UML Diagrams (Class, Sequence, Activity, Use Case)' as covered in Software Design & Architecture.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Design Principles (SOLID, DRY, KISS, YAGNI)' as covered in Software Design & Architecture.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Software Architecture Styles (Layered, Microservices, Event-Driven)' as covered in Software Design & Architecture.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Design Patterns' as covered in Software Design & Architecture.
+
+SECTION C: QUALITY ASSURANCE & TESTING (25 MARKS)
+
+9. (10 Marks) Discuss the core principles of 'Testing Levels (Unit, Integration, System, Acceptance)' within Quality Assurance & Testing, including definitions, applications, and critical analysis.
+10. (10 Marks) Discuss the core principles of 'Black-Box & White-Box Testing' within Quality Assurance & Testing, including definitions, applications, and critical analysis.
+11. (10 Marks) Discuss the core principles of 'Test Coverage & Code Metrics' within Quality Assurance & Testing, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Static & Dynamic Analysis' within Quality Assurance & Testing, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'CI/CD Pipelines' within Quality Assurance & Testing, including definitions, applications, and critical analysis.
+
+SECTION D: PROJECT MANAGEMENT & DEVOPS (40 MARKS)
+
+14. (10 Marks) Discuss the core principles of 'Project Scheduling (Gantt, PERT, CPM)' within Project Management & DevOps, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'Risk Management' within Project Management & DevOps, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Configuration Management' within Project Management & DevOps, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'DevOps Practices & Tools (Docker, Kubernetes, Jenkins)' within Project Management & DevOps, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

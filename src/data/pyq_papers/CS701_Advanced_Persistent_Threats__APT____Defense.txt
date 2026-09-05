@@ -1,0 +1,40 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 8 EXAMINATION
+CS701: Advanced Persistent Threats (APT) & Defense (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Analyze advanced persistent threats and develop defense strategies
+
+============================================================
+
+SECTION A: APT LANDSCAPE (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Notable APT Groups (APT28, APT29, Lazarus)' as covered in APT Landscape.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Kill Chain Model' as covered in APT Landscape.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'MITRE ATT&CK Mapping' as covered in APT Landscape.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Nation-State Cyber Operations' as covered in APT Landscape.
+
+SECTION B: DETECTION & ANALYSIS (25 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Behavioral Analysis' as covered in Detection & Analysis.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'YARA Rules' as covered in Detection & Analysis.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Sigma Rules' as covered in Detection & Analysis.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Threat Hunting Methodologies' as covered in Detection & Analysis.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Deception Technologies' as covered in Detection & Analysis.
+
+SECTION C: DEFENSE STRATEGIES (20 MARKS)
+
+10. (10 Marks) Discuss the core principles of 'Zero Trust Architecture' within Defense Strategies, including definitions, applications, and critical analysis.
+11. (10 Marks) Discuss the core principles of 'Microsegmentation' within Defense Strategies, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Endpoint Detection & Response (EDR)' within Defense Strategies, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Network Detection & Response (NDR)' within Defense Strategies, including definitions, applications, and critical analysis.
+
+SECTION D: CASE STUDIES (40 MARKS)
+
+14. (10 Marks) Discuss the core principles of 'SolarWinds Attack Analysis' within Case Studies, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'Colonial Pipeline Incident' within Case Studies, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Log4Shell Analysis' within Case Studies, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Supply Chain Attacks' within Case Studies, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

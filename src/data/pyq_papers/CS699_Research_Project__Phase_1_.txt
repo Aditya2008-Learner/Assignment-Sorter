@@ -1,0 +1,26 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 7 EXAMINATION
+CS699: Research Project (Phase 1) (Credits: 8)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Conduct original research in a cyber security domain
+  2. Write and present a technical research paper
+
+============================================================
+
+SECTION A: RESEARCH METHODOLOGY (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Literature Survey & Related Work' as covered in Research Methodology.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Research Problem Formulation' as covered in Research Methodology.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Hypothesis Development' as covered in Research Methodology.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Experimental Design' as covered in Research Methodology.
+
+SECTION B: IMPLEMENTATION (20 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'System Architecture Design' as covered in Implementation.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Prototype Development' as covered in Implementation.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Data Collection & Benchmarking' as covered in Implementation.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Tool Development' as covered in Implementation.
+
+END OF QUESTION PAPER

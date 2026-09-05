@@ -1,0 +1,44 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 1 EXAMINATION
+PH101: Engineering Physics (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Apply Newtonian mechanics and Lagrangian formulation to engineering systems
+  2. Use Maxwell's equations to analyze electromagnetic phenomena
+  3. Apply quantum mechanics principles to modern technology
+
+============================================================
+
+SECTION A: CLASSICAL MECHANICS (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Newtonian Mechanics' as covered in Classical Mechanics.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Lagrangian & Hamiltonian Formulations' as covered in Classical Mechanics.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Central Force Motion' as covered in Classical Mechanics.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Rigid Body Dynamics' as covered in Classical Mechanics.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Small Oscillations' as covered in Classical Mechanics.
+
+SECTION B: ELECTROMAGNETIC THEORY (25 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Electrostatics & Gauss's Law' as covered in Electromagnetic Theory.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Magnetostatics & Ampère's Law' as covered in Electromagnetic Theory.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Faraday's Law' as covered in Electromagnetic Theory.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Maxwell's Equations' as covered in Electromagnetic Theory.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Electromagnetic Wave Propagation' as covered in Electromagnetic Theory.
+
+SECTION C: OPTICS & PHOTONICS (20 MARKS)
+
+11. (10 Marks) Discuss the core principles of 'Interference & Diffraction' within Optics & Photonics, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Polarization' within Optics & Photonics, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Laser Principles & Applications' within Optics & Photonics, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Fiber Optics & Communication' within Optics & Photonics, including definitions, applications, and critical analysis.
+
+SECTION D: QUANTUM MECHANICS & RELATIVITY (50 MARKS)
+
+15. (10 Marks) Discuss the core principles of 'Wave-Particle Duality' within Quantum Mechanics & Relativity, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Schrödinger Equation' within Quantum Mechanics & Relativity, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Hydrogen Atom' within Quantum Mechanics & Relativity, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Heisenberg Uncertainty Principle' within Quantum Mechanics & Relativity, including definitions, applications, and critical analysis.
+19. (10 Marks) Discuss the core principles of 'Special Relativity (Lorentz Transformations)' within Quantum Mechanics & Relativity, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

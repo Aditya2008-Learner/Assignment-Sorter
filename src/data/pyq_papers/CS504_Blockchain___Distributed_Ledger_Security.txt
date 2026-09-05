@@ -1,0 +1,43 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 6 EXAMINATION
+CS504: Blockchain & Distributed Ledger Security (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Develop and audit smart contracts for security vulnerabilities
+  2. Analyze blockchain transactions for forensic investigations
+
+============================================================
+
+SECTION A: BLOCKCHAIN FUNDAMENTALS (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cryptographic Hash Functions' as covered in Blockchain Fundamentals.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Merkle Trees' as covered in Blockchain Fundamentals.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Digital Signatures' as covered in Blockchain Fundamentals.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Consensus Mechanisms (PoW, PoS, DPoS)' as covered in Blockchain Fundamentals.
+
+SECTION B: SMART CONTRACTS & DAPPS (25 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Ethereum Architecture' as covered in Smart Contracts & DApps.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Solidity Programming' as covered in Smart Contracts & DApps.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Smart Contract Security' as covered in Smart Contracts & DApps.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Reentrancy Attacks' as covered in Smart Contracts & DApps.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Gas Optimization' as covered in Smart Contracts & DApps.
+
+SECTION C: DISTRIBUTED LEDGER TECHNOLOGIES (20 MARKS)
+
+10. (10 Marks) Analyze 'Hyperledger Fabric' from Distributed Ledger Technologies and explain its role in modern security protocols.
+11. (10 Marks) Analyze 'Permissioned vs Permissionless Blockchains' from Distributed Ledger Technologies and explain its role in modern security protocols.
+12. (10 Marks) Analyze 'Zero-Knowledge Proofs' from Distributed Ledger Technologies and explain its role in modern security protocols.
+13. (10 Marks) Analyze 'Ring Signatures & Mixing' from Distributed Ledger Technologies and explain its role in modern security protocols.
+
+SECTION D: BLOCKCHAIN SECURITY & FORENSICS (60 MARKS)
+
+14. (10 Marks) Analyze '51% Attack' from Blockchain Security & Forensics and explain its role in modern security protocols.
+15. (10 Marks) Analyze 'Sybil Attack' from Blockchain Security & Forensics and explain its role in modern security protocols.
+16. (10 Marks) Analyze 'Eclipse Attack' from Blockchain Security & Forensics and explain its role in modern security protocols.
+17. (10 Marks) Analyze 'Transaction Analysis' from Blockchain Security & Forensics and explain its role in modern security protocols.
+18. (10 Marks) Analyze 'DeFi Security Vulnerabilities' from Blockchain Security & Forensics and explain its role in modern security protocols.
+19. (10 Marks) Analyze 'NFT Security' from Blockchain Security & Forensics and explain its role in modern security protocols.
+
+END OF QUESTION PAPER

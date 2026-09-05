@@ -1,0 +1,34 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "🚀 Debug FastAPI Server (Assignment Sorter)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "envFile": "${workspaceFolder}/.env",
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "🧪 Run & Debug E2E Test Suite",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "unittest",
+      "args": ["tests/test_end_to_end.py"],
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "⚙️ Debug C Core Compilation & Bridge",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/src/c_core/build.py",
+      "console": "integratedTerminal",
+      "justMyCode": true,
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

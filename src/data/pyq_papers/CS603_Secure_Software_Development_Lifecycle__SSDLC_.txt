@@ -1,0 +1,40 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 7 EXAMINATION
+CS603: Secure Software Development Lifecycle (SSDLC) (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Integrate security into every phase of the software development lifecycle
+
+============================================================
+
+SECTION A: SECURE DESIGN & THREAT MODELING (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'STRIDE & DREAD' as covered in Secure Design & Threat Modeling.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Attack Trees' as covered in Secure Design & Threat Modeling.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Abuse Cases' as covered in Secure Design & Threat Modeling.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Security Architecture Review' as covered in Secure Design & Threat Modeling.
+
+SECTION B: SECURE CODING STANDARDS (20 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'CERT Secure Coding Standards' as covered in Secure Coding Standards.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'MISRA for Security' as covered in Secure Coding Standards.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Language-Specific Security (Python, Java, C++)' as covered in Secure Coding Standards.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Memory Safety' as covered in Secure Coding Standards.
+
+SECTION C: SECURITY TESTING (20 MARKS)
+
+9. (10 Marks) Discuss the core principles of 'SAST (Static Application Security Testing)' within Security Testing, including definitions, applications, and critical analysis.
+10. (10 Marks) Discuss the core principles of 'DAST (Dynamic Application Security Testing)' within Security Testing, including definitions, applications, and critical analysis.
+11. (10 Marks) Discuss the core principles of 'IAST & RAST' within Security Testing, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Fuzzing Techniques' within Security Testing, including definitions, applications, and critical analysis.
+
+SECTION D: DEVSECOPS & SUPPLY CHAIN SECURITY (50 MARKS)
+
+13. (10 Marks) Discuss the core principles of 'CI/CD Security Integration' within DevSecOps & Supply Chain Security, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Container Image Scanning' within DevSecOps & Supply Chain Security, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'Software Bill of Materials (SBOM)' within DevSecOps & Supply Chain Security, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Dependency Scanning' within DevSecOps & Supply Chain Security, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Secret Management' within DevSecOps & Supply Chain Security, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

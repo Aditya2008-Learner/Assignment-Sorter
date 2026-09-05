@@ -1,0 +1,44 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 1 EXAMINATION
+CH101: Engineering Chemistry (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Analyze water quality parameters for engineering applications
+  2. Understand electrochemical and corrosion processes in engineering
+
+============================================================
+
+SECTION A: WATER TECHNOLOGY & TREATMENT (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Hardness & Alkalinity' as covered in Water Technology & Treatment.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Water Softening' as covered in Water Technology & Treatment.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Disinfection Methods' as covered in Water Technology & Treatment.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Boiler Feed Water Treatment' as covered in Water Technology & Treatment.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'pH & Buffer Solutions' as covered in Water Technology & Treatment.
+
+SECTION B: ELECTROCHEMISTRY & CORROSION (25 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Electrochemical Cells' as covered in Electrochemistry & Corrosion.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Nernst Equation' as covered in Electrochemistry & Corrosion.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Corrosion Mechanisms' as covered in Electrochemistry & Corrosion.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cathodic Protection' as covered in Electrochemistry & Corrosion.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Protective Coatings' as covered in Electrochemistry & Corrosion.
+
+SECTION C: POLYMER CHEMISTRY (25 MARKS)
+
+11. (10 Marks) Discuss the core principles of 'Polymerization Mechanisms' within Polymer Chemistry, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Thermoplastics & Thermosets' within Polymer Chemistry, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Rubber & Elastomers' within Polymer Chemistry, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Biodegradable Polymers' within Polymer Chemistry, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'Polymer Applications in IT' within Polymer Chemistry, including definitions, applications, and critical analysis.
+
+SECTION D: MATERIALS SCIENCE (50 MARKS)
+
+16. (10 Marks) Discuss the core principles of 'Crystal Structures' within Materials Science, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Band Theory of Solids' within Materials Science, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Semiconductors' within Materials Science, including definitions, applications, and critical analysis.
+19. (10 Marks) Discuss the core principles of 'Nanomaterials' within Materials Science, including definitions, applications, and critical analysis.
+20. (10 Marks) Discuss the core principles of 'Superconductors' within Materials Science, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

@@ -1,0 +1,42 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 2 EXAMINATION
+PH102: Physics for Information Technology (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Understand semiconductor device physics relevant to IT hardware
+  2. Apply nanoscience concepts to emerging computing technologies
+
+============================================================
+
+SECTION A: SEMICONDUCTOR PHYSICS (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Energy Bands in Solids' as covered in Semiconductor Physics.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Intrinsic & Extrinsic Semiconductors' as covered in Semiconductor Physics.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Carrier Transport' as covered in Semiconductor Physics.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'PN Junction Diode' as covered in Semiconductor Physics.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'JFET & MOSFET Operation' as covered in Semiconductor Physics.
+
+SECTION B: SUPERCONDUCTIVITY & MAGNETIC MATERIALS (25 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Meissner Effect' as covered in Superconductivity & Magnetic Materials.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Type I & II Superconductors' as covered in Superconductivity & Magnetic Materials.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'BCS Theory' as covered in Superconductivity & Magnetic Materials.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Ferro & Antiferromagnetism' as covered in Superconductivity & Magnetic Materials.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Applications in Computing' as covered in Superconductivity & Magnetic Materials.
+
+SECTION C: DIELECTRIC & OPTICAL PROPERTIES OF MATERIALS (20 MARKS)
+
+11. (10 Marks) Discuss the core principles of 'Polarization Mechanisms' within Dielectric & Optical Properties of Materials, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Piezoelectric & Ferroelectric Materials' within Dielectric & Optical Properties of Materials, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Photonic Crystals' within Dielectric & Optical Properties of Materials, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'LED & Laser Physics' within Dielectric & Optical Properties of Materials, including definitions, applications, and critical analysis.
+
+SECTION D: NANOMATERIALS & QUANTUM DEVICES (40 MARKS)
+
+15. (10 Marks) Discuss the core principles of 'Quantum Dots' within Nanomaterials & Quantum Devices, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Carbon Nanotubes' within Nanomaterials & Quantum Devices, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Graphene Properties' within Nanomaterials & Quantum Devices, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Quantum Computing Fundamentals' within Nanomaterials & Quantum Devices, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

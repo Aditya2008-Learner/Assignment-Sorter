@@ -1,0 +1,60 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 1 EXAMINATION
+MA101: Engineering Mathematics I (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Apply matrix algebra and vector space concepts to engineering problems
+  2. Compute multivariable integrals using appropriate coordinate systems
+  3. Formulate and solve ODEs governing physical systems
+
+============================================================
+
+SECTION A: LINEAR ALGEBRA (40 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Matrices & Determinants' as covered in Linear Algebra.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'System of Linear Equations' as covered in Linear Algebra.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Rank & Consistency' as covered in Linear Algebra.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Vector Spaces' as covered in Linear Algebra.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Eigenvalues & Eigenvectors' as covered in Linear Algebra.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Diagonalization' as covered in Linear Algebra.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Quadratic Forms' as covered in Linear Algebra.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cayley-Hamilton Theorem' as covered in Linear Algebra.
+
+SECTION B: SINGLE VARIABLE CALCULUS (35 MARKS)
+
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Limits & Continuity' as covered in Single Variable Calculus.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Differentiability' as covered in Single Variable Calculus.
+11. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Mean Value Theorems' as covered in Single Variable Calculus.
+12. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Taylor & Maclaurin Series' as covered in Single Variable Calculus.
+13. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Indeterminate Forms & L'Hospital's Rule' as covered in Single Variable Calculus.
+14. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Riemann Integration' as covered in Single Variable Calculus.
+15. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Improper Integrals' as covered in Single Variable Calculus.
+
+SECTION C: MULTIVARIABLE CALCULUS (60 MARKS)
+
+16. (10 Marks) Discuss the core principles of 'Partial Derivatives' within Multivariable Calculus, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Chain Rule' within Multivariable Calculus, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Tangent Planes' within Multivariable Calculus, including definitions, applications, and critical analysis.
+19. (10 Marks) Discuss the core principles of 'Directional Derivatives' within Multivariable Calculus, including definitions, applications, and critical analysis.
+20. (10 Marks) Discuss the core principles of 'Maxima & Minima' within Multivariable Calculus, including definitions, applications, and critical analysis.
+21. (10 Marks) Discuss the core principles of 'Lagrange Multipliers' within Multivariable Calculus, including definitions, applications, and critical analysis.
+22. (10 Marks) Discuss the core principles of 'Multiple Integrals (Double & Triple)' within Multivariable Calculus, including definitions, applications, and critical analysis.
+23. (10 Marks) Discuss the core principles of 'Polar/Cylindrical/Spherical Coordinates' within Multivariable Calculus, including definitions, applications, and critical analysis.
+24. (10 Marks) Discuss the core principles of 'Line & Surface Integrals' within Multivariable Calculus, including definitions, applications, and critical analysis.
+25. (10 Marks) Discuss the core principles of 'Green's Theorem' within Multivariable Calculus, including definitions, applications, and critical analysis.
+26. (10 Marks) Discuss the core principles of 'Stokes' Theorem' within Multivariable Calculus, including definitions, applications, and critical analysis.
+27. (10 Marks) Discuss the core principles of 'Gauss Divergence Theorem' within Multivariable Calculus, including definitions, applications, and critical analysis.
+
+SECTION D: SEQUENCES, SERIES & ORDINARY DIFFERENTIAL EQUATIONS (80 MARKS)
+
+28. (10 Marks) Discuss the core principles of 'Sequences & Series Convergence' within Sequences, Series & Ordinary Differential Equations, including definitions, applications, and critical analysis.
+29. (10 Marks) Discuss the core principles of 'Power Series' within Sequences, Series & Ordinary Differential Equations, including definitions, applications, and critical analysis.
+30. (10 Marks) Discuss the core principles of 'First Order ODEs (Variable Separable, Homogeneous, Linear, Bernoulli, Exact)' within Sequences, Series & Ordinary Differential Equations, including definitions, applications, and critical analysis.
+31. (10 Marks) Discuss the core principles of 'Higher Order Linear ODEs' within Sequences, Series & Ordinary Differential Equations, including definitions, applications, and critical analysis.
+32. (10 Marks) Discuss the core principles of 'Cauchy-Euler Equations' within Sequences, Series & Ordinary Differential Equations, including definitions, applications, and critical analysis.
+33. (10 Marks) Discuss the core principles of 'Method of Undetermined Coefficients' within Sequences, Series & Ordinary Differential Equations, including definitions, applications, and critical analysis.
+34. (10 Marks) Discuss the core principles of 'Variation of Parameters' within Sequences, Series & Ordinary Differential Equations, including definitions, applications, and critical analysis.
+35. (10 Marks) Discuss the core principles of 'PDEs: Heat, Wave & Laplace Equations' within Sequences, Series & Ordinary Differential Equations, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

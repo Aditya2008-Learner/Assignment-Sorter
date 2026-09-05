@@ -1,0 +1,44 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 4 EXAMINATION
+CS304: Theory of Computation & Formal Languages (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Design and analyze finite automata and pushdown automata
+  2. Classify languages using Chomsky hierarchy
+  3. Determine decidability and computational complexity of problems
+
+============================================================
+
+SECTION A: AUTOMATA THEORY (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Finite Automata (DFA, NFA)' as covered in Automata Theory.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'NFA to DFA Conversion' as covered in Automata Theory.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Equivalence of FA' as covered in Automata Theory.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Regular Expressions & Languages' as covered in Automata Theory.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Pumping Lemma for Regular Languages' as covered in Automata Theory.
+
+SECTION B: CONTEXT-FREE GRAMMARS & PUSHDOWN AUTOMATA (25 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Context-Free Grammars (CFG)' as covered in Context-Free Grammars & Pushdown Automata.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Parse Trees & Ambiguity' as covered in Context-Free Grammars & Pushdown Automata.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Chomsky Normal Form & Greibach Normal Form' as covered in Context-Free Grammars & Pushdown Automata.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Pushdown Automata' as covered in Context-Free Grammars & Pushdown Automata.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Pumping Lemma for CFLs' as covered in Context-Free Grammars & Pushdown Automata.
+
+SECTION C: TURING MACHINES & COMPUTABILITY (25 MARKS)
+
+11. (10 Marks) Discuss the core principles of 'Turing Machine (Basic & Variants)' within Turing Machines & Computability, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Church-Turing Thesis' within Turing Machines & Computability, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Decidability & Recognizability' within Turing Machines & Computability, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Halting Problem' within Turing Machines & Computability, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'Recursive & Recursively Enumerable Languages' within Turing Machines & Computability, including definitions, applications, and critical analysis.
+
+SECTION D: COMPUTATIONAL COMPLEXITY (40 MARKS)
+
+16. (10 Marks) Discuss the core principles of 'Time & Space Complexity Classes' within Computational Complexity, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'P vs NP Problem' within Computational Complexity, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'NP-Completeness & Reductions' within Computational Complexity, including definitions, applications, and critical analysis.
+19. (10 Marks) Discuss the core principles of 'Space Complexity (PSPACE, L, NL)' within Computational Complexity, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

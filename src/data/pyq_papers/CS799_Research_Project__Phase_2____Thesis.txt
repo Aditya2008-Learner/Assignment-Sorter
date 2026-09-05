@@ -1,0 +1,26 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 8 EXAMINATION
+CS799: Research Project (Phase 2) & Thesis (Credits: 8)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Complete original research and publish findings
+  2. Defend thesis before an academic committee
+
+============================================================
+
+SECTION A: RESEARCH COMPLETION (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Advanced Implementation' as covered in Research Completion.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Results & Analysis' as covered in Research Completion.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Comparison with State-of-the-Art' as covered in Research Completion.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Publication Preparation' as covered in Research Completion.
+
+SECTION B: THESIS & PRESENTATION (20 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Thesis Writing (ACM/IEEE Format)' as covered in Thesis & Presentation.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Viva Voce Preparation' as covered in Thesis & Presentation.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Demo & Exhibition' as covered in Thesis & Presentation.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Research Impact Assessment' as covered in Thesis & Presentation.
+
+END OF QUESTION PAPER

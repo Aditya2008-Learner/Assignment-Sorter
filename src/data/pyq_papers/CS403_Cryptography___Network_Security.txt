@@ -1,0 +1,46 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 5 EXAMINATION
+CS403: Cryptography & Network Security (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Implement cryptographic protocols for secure data transmission
+  2. Evaluate protocol security against known attacks
+
+============================================================
+
+SECTION A: SYMMETRIC CRYPTOGRAPHY (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Block Cipher Modes (ECB, CBC, CTR, GCM)' as covered in Symmetric Cryptography.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'AES Internals & Implementation' as covered in Symmetric Cryptography.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Stream Ciphers (RC4, ChaCha20)' as covered in Symmetric Cryptography.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Differential & Linear Cryptanalysis' as covered in Symmetric Cryptography.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'S-Box Design Principles' as covered in Symmetric Cryptography.
+
+SECTION B: ASYMMETRIC CRYPTOGRAPHY & KEY MANAGEMENT (30 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'RSA (Key Generation, Encryption, Signing)' as covered in Asymmetric Cryptography & Key Management.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Diffie-Hellman Key Exchange' as covered in Asymmetric Cryptography & Key Management.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Elliptic Curve Cryptography (ECC)' as covered in Asymmetric Cryptography & Key Management.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'ElGamal Encryption' as covered in Asymmetric Cryptography & Key Management.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Public Key Infrastructure (PKI)' as covered in Asymmetric Cryptography & Key Management.
+11. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Certificate Authorities & Trust Chains' as covered in Asymmetric Cryptography & Key Management.
+
+SECTION C: HASH FUNCTIONS & DIGITAL SIGNATURES (30 MARKS)
+
+12. (10 Marks) Analyze 'Collision Resistance' from Hash Functions & Digital Signatures and apply it to a real network scenario with diagrams.
+13. (10 Marks) Explain CSMA/CD and CSMA/CA for LAN and WLAN MAC respectively. Show how binary exponential backoff works with a concrete collision scenario.
+14. (10 Marks) Analyze 'SHA-2 Family & SHA-3 (Keccak)' from Hash Functions & Digital Signatures and apply it to a real network scenario with diagrams.
+15. (10 Marks) Analyze 'Merkle Trees' from Hash Functions & Digital Signatures and apply it to a real network scenario with diagrams.
+16. (10 Marks) Analyze 'Digital Signature Algorithm (DSA)' from Hash Functions & Digital Signatures and apply it to a real network scenario with diagrams.
+17. (10 Marks) Analyze 'Zero-Knowledge Proofs' from Hash Functions & Digital Signatures and apply it to a real network scenario with diagrams.
+
+SECTION D: PROTOCOL SECURITY & QUANTUM CRYPTOGRAPHY (50 MARKS)
+
+18. (10 Marks) Explain CSMA/CD and CSMA/CA for LAN and WLAN MAC respectively. Show how binary exponential backoff works with a concrete collision scenario.
+19. (10 Marks) Given an IPv4 address 192.168.10.0/22, (a) divide it into 4 subnets with 255 hosts each, (b) compute broadcast and network addresses, (c) explain subnetting & CIDR.
+20. (10 Marks) Analyze 'PGP & S/MIME' from Protocol Security & Quantum Cryptography and apply it to a real network scenario with diagrams.
+21. (10 Marks) Explain CSMA/CD and CSMA/CA for LAN and WLAN MAC respectively. Show how binary exponential backoff works with a concrete collision scenario.
+22. (10 Marks) Analyze 'Post-Quantum Cryptography Lattice-Based Approaches' from Protocol Security & Quantum Cryptography and apply it to a real network scenario with diagrams.
+
+END OF QUESTION PAPER

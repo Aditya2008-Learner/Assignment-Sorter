@@ -1,0 +1,46 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 2 EXAMINATION
+MA201: Discrete Mathematics (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Formulate and prove mathematical statements relevant to CS
+  2. Apply combinatorial and graph-theoretic methods to CS problems
+
+============================================================
+
+SECTION A: MATHEMATICAL LOGIC & PROOFS (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Propositional Logic' as covered in Mathematical Logic & Proofs.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Predicate Logic' as covered in Mathematical Logic & Proofs.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Rules of Inference' as covered in Mathematical Logic & Proofs.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Proof Techniques (Direct, Contradiction, Induction)' as covered in Mathematical Logic & Proofs.
+
+SECTION B: SETS, RELATIONS & FUNCTIONS (30 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Set Operations' as covered in Sets, Relations & Functions.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Relations (Reflexive, Symmetric, Transitive)' as covered in Sets, Relations & Functions.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Equivalence Relations & Partitions' as covered in Sets, Relations & Functions.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Partial Orders' as covered in Sets, Relations & Functions.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Functions (Injective, Surjective, Bijective)' as covered in Sets, Relations & Functions.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Pigeonhole Principle' as covered in Sets, Relations & Functions.
+
+SECTION C: COMBINATORICS & GRAPH THEORY (35 MARKS)
+
+11. (10 Marks) Discuss the core principles of 'Permutations & Combinations' within Combinatorics & Graph Theory, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Binomial & Multinomial Theorems' within Combinatorics & Graph Theory, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Inclusion-Exclusion Principle' within Combinatorics & Graph Theory, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Graph Terminology' within Combinatorics & Graph Theory, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'Euler & Hamilton Paths' within Combinatorics & Graph Theory, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Graph Coloring' within Combinatorics & Graph Theory, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Planar Graphs (Euler's Formula)' within Combinatorics & Graph Theory, including definitions, applications, and critical analysis.
+
+SECTION D: ALGEBRAIC STRUCTURES (50 MARKS)
+
+18. (10 Marks) Discuss the core principles of 'Groups, Subgroups, Cyclic Groups' within Algebraic Structures, including definitions, applications, and critical analysis.
+19. (10 Marks) Discuss the core principles of 'Permutation Groups' within Algebraic Structures, including definitions, applications, and critical analysis.
+20. (10 Marks) Discuss the core principles of 'Rings & Ideals' within Algebraic Structures, including definitions, applications, and critical analysis.
+21. (10 Marks) Discuss the core principles of 'Fields' within Algebraic Structures, including definitions, applications, and critical analysis.
+22. (10 Marks) Discuss the core principles of 'Lattices & Boolean Algebra' within Algebraic Structures, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

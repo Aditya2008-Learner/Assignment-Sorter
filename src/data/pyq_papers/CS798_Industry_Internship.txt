@@ -1,0 +1,24 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 8 EXAMINATION
+CS798: Industry Internship (Credits: 10)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Apply academic knowledge in professional security environments
+
+============================================================
+
+SECTION A: INDUSTRY PRACTICE (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of '16-Week Industry Placement' as covered in Industry Practice.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Real-World Security Operations' as covered in Industry Practice.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'SOC Analyst Workflows' as covered in Industry Practice.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Security Engineering Projects' as covered in Industry Practice.
+
+SECTION B: PROFESSIONAL DEVELOPMENT (15 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Industry Certification Preparation (CEH, CompTIA Security+)' as covered in Professional Development.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Professional Networking' as covered in Professional Development.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Career Development' as covered in Professional Development.
+
+END OF QUESTION PAPER

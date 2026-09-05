@@ -1,0 +1,45 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 6 EXAMINATION
+CS501: Ethical Hacking & Penetration Testing (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Conduct systematic penetration testing engagements
+  2. Exploit vulnerabilities across multiple attack surfaces
+  3. Document findings and remediation strategies
+
+============================================================
+
+SECTION A: RECONNAISSANCE & SCANNING (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Passive & Active Reconnaissance' as covered in Reconnaissance & Scanning.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'OSINT Techniques' as covered in Reconnaissance & Scanning.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Network Scanning (Nmap, Masscan)' as covered in Reconnaissance & Scanning.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Vulnerability Scanning (Nessus, OpenVAS)' as covered in Reconnaissance & Scanning.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Service Enumeration' as covered in Reconnaissance & Scanning.
+
+SECTION B: EXPLOITATION TECHNIQUES (25 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Buffer Overflow Attacks' as covered in Exploitation Techniques.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Privilege Escalation (Vertical & Horizontal)' as covered in Exploitation Techniques.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Metasploit Framework' as covered in Exploitation Techniques.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Shellcode Development' as covered in Exploitation Techniques.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Client-Side Attacks' as covered in Exploitation Techniques.
+
+SECTION C: POST-EXPLOITATION & PERSISTENCE (25 MARKS)
+
+11. (10 Marks) Discuss the core principles of 'Lateral Movement' within Post-Exploitation & Persistence, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Pivoting & Tunneling' within Post-Exploitation & Persistence, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Persistence Mechanisms' within Post-Exploitation & Persistence, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Log Evasion & Anti-Forensics' within Post-Exploitation & Persistence, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'C2 Frameworks (Cobalt Strike)' within Post-Exploitation & Persistence, including definitions, applications, and critical analysis.
+
+SECTION D: SPECIALIZED HACKING (50 MARKS)
+
+16. (10 Marks) Discuss the core principles of 'Wireless Network Hacking (Aircrack-ng)' within Specialized Hacking, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Web Application Hacking' within Specialized Hacking, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Mobile Application Hacking' within Specialized Hacking, including definitions, applications, and critical analysis.
+19. (10 Marks) Discuss the core principles of 'Social Engineering Techniques' within Specialized Hacking, including definitions, applications, and critical analysis.
+20. (10 Marks) Discuss the core principles of 'Red Team Operations' within Specialized Hacking, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

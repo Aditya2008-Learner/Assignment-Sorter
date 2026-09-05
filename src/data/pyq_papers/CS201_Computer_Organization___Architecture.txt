@@ -1,0 +1,42 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 3 EXAMINATION
+CS201: Computer Organization & Architecture (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Design and analyze processor control and datapath architectures
+  2. Evaluate memory hierarchy performance and optimization techniques
+
+============================================================
+
+SECTION A: INSTRUCTION SET ARCHITECTURE (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'ISA Design Principles' as covered in Instruction Set Architecture.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'CISC vs RISC' as covered in Instruction Set Architecture.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Addressing Modes' as covered in Instruction Set Architecture.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Instruction Formats' as covered in Instruction Set Architecture.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Operand & Operator Stacks' as covered in Instruction Set Architecture.
+
+SECTION B: ARITHMETIC LOGIC UNIT DESIGN (20 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Fast Adders (Carry Look-Ahead, Carry Save)' as covered in Arithmetic Logic Unit Design.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Multiplication & Division Algorithms' as covered in Arithmetic Logic Unit Design.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Floating Point Arithmetic (IEEE 754)' as covered in Arithmetic Logic Unit Design.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'ALU Design & Integration' as covered in Arithmetic Logic Unit Design.
+
+SECTION C: CONTROL UNIT DESIGN (20 MARKS)
+
+10. (10 Marks) Discuss the core principles of 'Hardwired vs Microprogrammed Control' within Control Unit Design, including definitions, applications, and critical analysis.
+11. (10 Marks) Discuss the core principles of 'Microinstructions & Microoperations' within Control Unit Design, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Control Memory' within Control Unit Design, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Pipeline Control & Hazards' within Control Unit Design, including definitions, applications, and critical analysis.
+
+SECTION D: ADVANCED ARCHITECTURE (50 MARKS)
+
+14. (10 Marks) Discuss the core principles of 'Instruction Level Parallelism' within Advanced Architecture, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'Superscalar & VLIW Architectures' within Advanced Architecture, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Branch Prediction' within Advanced Architecture, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Cache Coherence Protocols' within Advanced Architecture, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Multi-core & Multi-processor Systems' within Advanced Architecture, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

@@ -1,0 +1,46 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 3 EXAMINATION
+CS204: Database Management Systems (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Design normalized relational schemas and write complex SQL
+  2. Analyze transaction schedules and ensure database consistency
+  3. Optimize query performance using appropriate indexing strategies
+
+============================================================
+
+SECTION A: RELATIONAL MODEL & SQL (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'ER Model & ER-to-Relational Mapping' as covered in Relational Model & SQL.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Relational Algebra & Tuple/Domain Calculus' as covered in Relational Model & SQL.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'SQL (DDL, DML, DCL, TCL)' as covered in Relational Model & SQL.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Joins, Subqueries, Views' as covered in Relational Model & SQL.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Triggers, Stored Procedures, Cursors' as covered in Relational Model & SQL.
+
+SECTION B: NORMALIZATION (25 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Functional Dependencies' as covered in Normalization.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Armstrong's Axioms' as covered in Normalization.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of '1NF, 2NF, 3NF, BCNF, 4NF, 5NF' as covered in Normalization.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Lossless & Dependency-Preserving Decomposition' as covered in Normalization.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Normalization Algorithms' as covered in Normalization.
+
+SECTION C: TRANSACTION PROCESSING (30 MARKS)
+
+11. (10 Marks) Explain 'ACID Properties' from Transaction Processing, including underlying structures and practical applications in SQL or ORMs.
+12. (10 Marks) Explain 'Schedule & Serializability' from Transaction Processing, including underlying structures and practical applications in SQL or ORMs.
+13. (10 Marks) Explain 'Conflict & View Serializability' from Transaction Processing, including underlying structures and practical applications in SQL or ORMs.
+14. (10 Marks) Consider schedules S1 and S2 with transactions T1, T2, T3. Determine whether each is conflict-serializable using a precedence graph. Then compare Strict 2PL vs Timestamp Ordering Protocol.
+15. (10 Marks) Explain 'Timestamp Ordering Protocol' from Transaction Processing, including underlying structures and practical applications in SQL or ORMs.
+16. (10 Marks) Explain 'Multi-Version Concurrency Control' from Transaction Processing, including underlying structures and practical applications in SQL or ORMs.
+
+SECTION D: INDEXING, QUERY OPTIMIZATION & NOSQL (50 MARKS)
+
+17. (10 Marks) Build a B+ tree of order 3 by inserting keys (10, 20, 5, 6, 12, 30, 7, 17) one-by-one. Show leaf and internal node splits. Then analyze a range query performance on the built B+ tree.
+18. (10 Marks) Build a B+ tree of order 3 by inserting keys (10, 20, 5, 6, 12, 30, 7, 17) one-by-one. Show leaf and internal node splits. Then analyze a range query performance on the built B+ tree.
+19. (10 Marks) Explain 'Query Execution Plans & Cost Estimation' from Indexing, Query Optimization & NoSQL, including underlying structures and practical applications in SQL or ORMs.
+20. (10 Marks) Explain 'Nested Loop, Sort-Merge, Hash Joins' from Indexing, Query Optimization & NoSQL, including underlying structures and practical applications in SQL or ORMs.
+21. (10 Marks) Given University database (Student, Course, Enrolls, Professor), write SQL and equivalent Relational Algebra for: (a) Find courses with more than 30 students, (b) List students taking all courses taught by 'Prof. Rao', (c) Create a view of top-10 GPAs with aggregate queries.
+
+END OF QUESTION PAPER

@@ -1,0 +1,43 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 5 EXAMINATION
+CS402: Machine Learning & AI for Cyber Security (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Build and evaluate ML models for security tasks
+  2. Implement adversarial defenses for ML systems
+
+============================================================
+
+SECTION A: MACHINE LEARNING FOUNDATIONS (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Supervised Learning (Linear Regression, SVM, Decision Trees, Random Forest)' as covered in Machine Learning Foundations.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Unsupervised Learning (K-Means, DBSCAN, PCA)' as covered in Machine Learning Foundations.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Bias-Variance Tradeoff' as covered in Machine Learning Foundations.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cross-Validation & Model Selection' as covered in Machine Learning Foundations.
+
+SECTION B: DEEP LEARNING (25 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Neural Networks & Backpropagation' as covered in Deep Learning.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'CNNs for Image/Pattern Analysis' as covered in Deep Learning.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'RNNs & LSTMs for Sequence Data' as covered in Deep Learning.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Autoencoders & GANs' as covered in Deep Learning.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Transfer Learning' as covered in Deep Learning.
+
+SECTION C: ML FOR SECURITY APPLICATIONS (25 MARKS)
+
+10. (10 Marks) Analyze 'Intrusion Detection Systems (IDS) with ML' from ML for Security Applications and explain its role in modern security protocols.
+11. (10 Marks) Analyze 'Malware Classification' from ML for Security Applications and explain its role in modern security protocols.
+12. (10 Marks) Analyze 'Phishing Detection' from ML for Security Applications and explain its role in modern security protocols.
+13. (10 Marks) Analyze 'Anomaly Detection in Network Traffic' from ML for Security Applications and explain its role in modern security protocols.
+14. (10 Marks) Analyze 'Spam Filtering' from ML for Security Applications and explain its role in modern security protocols.
+
+SECTION D: ADVERSARIAL ML & EXPLAINABILITY (50 MARKS)
+
+15. (10 Marks) Generate RSA keys with p=61, q=53. Compute n, phi(n), public key e, private key d. Encrypt the message M=65 and decrypt the ciphertext to verify correctness. Discuss computational security.
+16. (10 Marks) Analyze 'Model Robustness' from Adversarial ML & Explainability and explain its role in modern security protocols.
+17. (10 Marks) Analyze 'Explainable AI (XAI) Techniques' from Adversarial ML & Explainability and explain its role in modern security protocols.
+18. (10 Marks) Analyze 'Federated Learning for Privacy' from Adversarial ML & Explainability and explain its role in modern security protocols.
+19. (10 Marks) Analyze 'Ethical AI in Security' from Adversarial ML & Explainability and explain its role in modern security protocols.
+
+END OF QUESTION PAPER

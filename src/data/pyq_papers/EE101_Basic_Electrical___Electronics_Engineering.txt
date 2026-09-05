@@ -1,0 +1,43 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 1 EXAMINATION
+EE101: Basic Electrical & Electronics Engineering (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Analyze linear electrical circuits using network theorems
+  2. Understand basic analog and digital electronic circuits
+
+============================================================
+
+SECTION A: DC CIRCUITS (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Ohm's Law' as covered in DC Circuits.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Kirchhoff's Laws' as covered in DC Circuits.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Thevenin's & Norton's Theorems' as covered in DC Circuits.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Superposition Theorem' as covered in DC Circuits.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Maximum Power Transfer' as covered in DC Circuits.
+
+SECTION B: AC CIRCUITS & TRANSFORMERS (25 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'RMS & Average Values' as covered in AC Circuits & Transformers.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Phasor Representation' as covered in AC Circuits & Transformers.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'RLC Circuits' as covered in AC Circuits & Transformers.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Resonance' as covered in AC Circuits & Transformers.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Single Phase Transformers' as covered in AC Circuits & Transformers.
+
+SECTION C: ELECTRICAL MACHINES (20 MARKS)
+
+11. (10 Marks) Discuss the core principles of 'DC Generators & Motors' within Electrical Machines, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Three Phase Induction Motors' within Electrical Machines, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'Synchronous Machines' within Electrical Machines, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Speed Control Methods' within Electrical Machines, including definitions, applications, and critical analysis.
+
+SECTION D: ANALOG & DIGITAL ELECTRONICS BASICS (50 MARKS)
+
+15. (10 Marks) Discuss the core principles of 'Diodes & Rectifiers' within Analog & Digital Electronics Basics, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Transistors (BJT, FET)' within Analog & Digital Electronics Basics, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'Logic Gates' within Analog & Digital Electronics Basics, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Number Systems & Codes' within Analog & Digital Electronics Basics, including definitions, applications, and critical analysis.
+19. (10 Marks) Discuss the core principles of 'Boolean Algebra' within Analog & Digital Electronics Basics, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

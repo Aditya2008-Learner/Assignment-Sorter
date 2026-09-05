@@ -1,0 +1,44 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 5 EXAMINATION
+HS301: Cyber Law & Digital Forensics (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Understand the legal framework governing cyber activities
+  2. Apply forensic methodologies to investigate cybercrime
+
+============================================================
+
+SECTION A: INDIAN CYBER LAWS (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Information Technology Act 2000 (Amended)' as covered in Indian Cyber Laws.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Indian Penal Code Sections on Cybercrime' as covered in Indian Cyber Laws.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'IT Act Sections 65-72' as covered in Indian Cyber Laws.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'CERT-In Guidelines' as covered in Indian Cyber Laws.
+
+SECTION B: INTERNATIONAL CYBER LAW FRAMEWORK (25 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'GDPR (EU)' as covered in International Cyber Law Framework.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'CCPA (USA)' as covered in International Cyber Law Framework.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Budapest Convention' as covered in International Cyber Law Framework.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Data Protection & Privacy Rights' as covered in International Cyber Law Framework.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cross-Border Jurisdiction Issues' as covered in International Cyber Law Framework.
+
+SECTION C: DIGITAL FORENSICS (30 MARKS)
+
+10. (10 Marks) Analyze 'Forensic Investigation Methodology' from Digital Forensics with respect to Indian & international legal frameworks and digital forensic methodologies.
+11. (10 Marks) Analyze 'Disk Forensics & Imaging' from Digital Forensics with respect to Indian & international legal frameworks and digital forensic methodologies.
+12. (10 Marks) Analyze 'Memory Forensics' from Digital Forensics with respect to Indian & international legal frameworks and digital forensic methodologies.
+13. (10 Marks) Analyze 'Network Forensics' from Digital Forensics with respect to Indian & international legal frameworks and digital forensic methodologies.
+14. (10 Marks) Analyze 'Mobile Device Forensics' from Digital Forensics with respect to Indian & international legal frameworks and digital forensic methodologies.
+15. (10 Marks) Analyze 'Chain of Custody & Evidence Handling' from Digital Forensics with respect to Indian & international legal frameworks and digital forensic methodologies.
+
+SECTION D: CYBERCRIME INVESTIGATION (50 MARKS)
+
+16. (10 Marks) Analyze 'Email Forensics' from Cybercrime Investigation with respect to Indian & international legal frameworks and digital forensic methodologies.
+17. (10 Marks) Analyze 'Malware Analysis Basics' from Cybercrime Investigation with respect to Indian & international legal frameworks and digital forensic methodologies.
+18. (10 Marks) Analyze 'Dark Web Investigation' from Cybercrime Investigation with respect to Indian & international legal frameworks and digital forensic methodologies.
+19. (10 Marks) Analyze 'Financial Cybercrime' from Cybercrime Investigation with respect to Indian & international legal frameworks and digital forensic methodologies.
+20. (10 Marks) Analyze 'Court Admissibility of Digital Evidence' from Cybercrime Investigation with respect to Indian & international legal frameworks and digital forensic methodologies.
+
+END OF QUESTION PAPER

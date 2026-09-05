@@ -1,0 +1,41 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 7 EXAMINATION
+CS601: Network Forensics & Incident Response (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Conduct thorough network forensic investigations
+  2. Develop and execute incident response procedures
+
+============================================================
+
+SECTION A: NETWORK TRAFFIC ANALYSIS (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Wireshark & TShark Deep Analysis' as covered in Network Traffic Analysis.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'PCAP Analysis' as covered in Network Traffic Analysis.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'NetFlow & IPFIX' as covered in Network Traffic Analysis.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Traffic Anomaly Detection' as covered in Network Traffic Analysis.
+
+SECTION B: NETWORK FORENSICS METHODOLOGY (20 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Evidence Collection from Network Devices' as covered in Network Forensics Methodology.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Log Analysis (Firewall, IDS/IPS, Proxy)' as covered in Network Forensics Methodology.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'DNS Forensics' as covered in Network Forensics Methodology.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Email Header Analysis' as covered in Network Forensics Methodology.
+
+SECTION C: INCIDENT RESPONSE FRAMEWORKS (20 MARKS)
+
+9. (10 Marks) Analyze 'NIST IR Framework' from Incident Response Frameworks and apply it to a real network scenario with diagrams.
+10. (10 Marks) Analyze 'SANS Incident Response Steps' from Incident Response Frameworks and apply it to a real network scenario with diagrams.
+11. (10 Marks) Analyze 'Playbook Development' from Incident Response Frameworks and apply it to a real network scenario with diagrams.
+12. (10 Marks) Analyze 'Tabletop Exercises' from Incident Response Frameworks and apply it to a real network scenario with diagrams.
+
+SECTION D: THREAT INTELLIGENCE & ATTRIBUTION (50 MARKS)
+
+13. (10 Marks) Analyze 'MITRE ATT&CK Framework' from Threat Intelligence & Attribution and apply it to a real network scenario with diagrams.
+14. (10 Marks) Analyze 'Indicators of Compromise (IoCs)' from Threat Intelligence & Attribution and apply it to a real network scenario with diagrams.
+15. (10 Marks) Analyze 'Threat Hunting' from Threat Intelligence & Attribution and apply it to a real network scenario with diagrams.
+16. (10 Marks) Analyze 'APT Analysis' from Threat Intelligence & Attribution and apply it to a real network scenario with diagrams.
+17. (10 Marks) Analyze 'OSINT for Attribution' from Threat Intelligence & Attribution and apply it to a real network scenario with diagrams.
+
+END OF QUESTION PAPER

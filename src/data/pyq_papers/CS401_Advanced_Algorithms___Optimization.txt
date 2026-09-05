@@ -1,0 +1,44 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 5 EXAMINATION
+CS401: Advanced Algorithms & Optimization (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Solve complex optimization problems using advanced algorithms
+  2. Design parallel and randomized algorithms for large-scale data processing
+
+============================================================
+
+SECTION A: ADVANCED GRAPH ALGORITHMS (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Network Flow (Ford-Fulkerson, Edmonds-Karp)' as covered in Advanced Graph Algorithms.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Min-Cost Max-Flow' as covered in Advanced Graph Algorithms.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Matching Algorithms (Hungarian, Blossom)' as covered in Advanced Graph Algorithms.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Planar Graphs & Graph Minors' as covered in Advanced Graph Algorithms.
+
+SECTION B: LINEAR & INTEGER PROGRAMMING (25 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Simplex Method' as covered in Linear & Integer Programming.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Duality Theory' as covered in Linear & Integer Programming.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Integer Linear Programming' as covered in Linear & Integer Programming.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Branch and Bound for IP' as covered in Linear & Integer Programming.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Applications in Network Optimization' as covered in Linear & Integer Programming.
+
+SECTION C: ADVANCED DYNAMIC PROGRAMMING (30 MARKS)
+
+10. (10 Marks) Explain in detail the theory behind 'Bitmask DP' from Advanced Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+11. (10 Marks) Construct, step-by-step, a balanced binary search tree (BST) for the sequence {45, 12, 89, 34, 70, 23, 9}. Then, apply AVL rotation rules and show every single/double rotation (LL, RR, LR, RL) performed to maintain balance after inserting 55 and 61. Prove the final tree is an AVL Tree.
+12. (10 Marks) Explain in detail the theory behind 'Digit DP' from Advanced Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+13. (10 Marks) Explain in detail the theory behind 'Convex Hull Trick' from Advanced Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+14. (10 Marks) Explain in detail the theory behind 'Divide and Conquer Optimization' from Advanced Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+15. (10 Marks) Explain in detail the theory behind 'State Space Reduction' from Advanced Dynamic Programming, supporting with appropriate examples, pseudo-code, and complexity analysis.
+
+SECTION D: RANDOMIZED & PARALLEL ALGORITHMS (50 MARKS)
+
+16. (10 Marks) Explain in detail the theory behind 'Randomized Algorithms (Las Vegas, Monte Carlo)' from Randomized & Parallel Algorithms, supporting with appropriate examples, pseudo-code, and complexity analysis.
+17. (10 Marks) Explain in detail the theory behind 'Skip Lists' from Randomized & Parallel Algorithms, supporting with appropriate examples, pseudo-code, and complexity analysis.
+18. (10 Marks) Explain in detail the theory behind 'MapReduce Paradigm' from Randomized & Parallel Algorithms, supporting with appropriate examples, pseudo-code, and complexity analysis.
+19. (10 Marks) Explain in detail the theory behind 'Parallel Computing Models' from Randomized & Parallel Algorithms, supporting with appropriate examples, pseudo-code, and complexity analysis.
+20. (10 Marks) Explain in detail the theory behind 'GPU Computing (CUDA Basics)' from Randomized & Parallel Algorithms, supporting with appropriate examples, pseudo-code, and complexity analysis.
+
+END OF QUESTION PAPER

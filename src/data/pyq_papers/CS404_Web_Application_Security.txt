@@ -1,0 +1,44 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 5 EXAMINATION
+CS404: Web Application Security (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Identify and exploit common web application vulnerabilities
+  2. Implement security measures to protect web applications
+
+============================================================
+
+SECTION A: OWASP TOP 10 VULNERABILITIES (30 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Injection (SQL, NoSQL, LDAP, OS)' as covered in OWASP Top 10 Vulnerabilities.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Broken Authentication' as covered in OWASP Top 10 Vulnerabilities.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Sensitive Data Exposure' as covered in OWASP Top 10 Vulnerabilities.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'XML External Entities (XXE)' as covered in OWASP Top 10 Vulnerabilities.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Broken Access Control' as covered in OWASP Top 10 Vulnerabilities.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cross-Site Scripting (XSS)' as covered in OWASP Top 10 Vulnerabilities.
+
+SECTION B: ADVANCED WEB ATTACKS (25 MARKS)
+
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Server-Side Request Forgery (SSRF)' as covered in Advanced Web Attacks.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Cross-Site Request Forgery (CSRF)' as covered in Advanced Web Attacks.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Insecure Deserialization' as covered in Advanced Web Attacks.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Server-Side Template Injection (SSTI)' as covered in Advanced Web Attacks.
+11. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Business Logic Flaws' as covered in Advanced Web Attacks.
+
+SECTION C: SECURE WEB DEVELOPMENT (20 MARKS)
+
+12. (10 Marks) Analyze 'Secure Coding Practices (Input Validation, Output Encoding)' from Secure Web Development and explain its role in modern security protocols.
+13. (10 Marks) Analyze 'Content Security Policy (CSP)' from Secure Web Development and explain its role in modern security protocols.
+14. (10 Marks) Analyze 'HTTPS & Certificate Pinning' from Secure Web Development and explain its role in modern security protocols.
+15. (10 Marks) Analyze 'Web Application Firewalls (WAF)' from Secure Web Development and explain its role in modern security protocols.
+
+SECTION D: PENETRATION TESTING TOOLS & METHODOLOGIES (50 MARKS)
+
+16. (10 Marks) Analyze 'Burp Suite & OWASP ZAP' from Penetration Testing Tools & Methodologies and explain its role in modern security protocols.
+17. (10 Marks) Analyze 'SQLMap & Metasploit' from Penetration Testing Tools & Methodologies and explain its role in modern security protocols.
+18. (10 Marks) Analyze 'Nmap & Nikto' from Penetration Testing Tools & Methodologies and explain its role in modern security protocols.
+19. (10 Marks) Analyze 'Bug Bounty Methodologies' from Penetration Testing Tools & Methodologies and explain its role in modern security protocols.
+20. (10 Marks) Analyze 'Report Writing' from Penetration Testing Tools & Methodologies and explain its role in modern security protocols.
+
+END OF QUESTION PAPER

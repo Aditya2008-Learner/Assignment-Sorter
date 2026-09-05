@@ -1,0 +1,42 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 3 EXAMINATION
+CS202: Object-Oriented Programming with Java (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Design and implement object-oriented solutions using Java
+  2. Write concurrent multithreaded applications
+
+============================================================
+
+SECTION A: OOP FUNDAMENTALS (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Classes & Objects' as covered in OOP Fundamentals.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Inheritance & Polymorphism' as covered in OOP Fundamentals.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Encapsulation & Abstraction' as covered in OOP Fundamentals.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Interfaces & Abstract Classes' as covered in OOP Fundamentals.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Composition vs Aggregation' as covered in OOP Fundamentals.
+
+SECTION B: JAVA LANGUAGE FEATURES (20 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Exception Handling (try, catch, finally)' as covered in Java Language Features.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Generics & Type Safety' as covered in Java Language Features.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Collections Framework (List, Set, Map, Queue)' as covered in Java Language Features.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Inner Classes & Lambda Expressions' as covered in Java Language Features.
+
+SECTION C: MULTITHREADING & CONCURRENCY (25 MARKS)
+
+10. (10 Marks) Discuss the core principles of 'Thread Lifecycle' within Multithreading & Concurrency, including definitions, applications, and critical analysis.
+11. (10 Marks) Discuss the core principles of 'Synchronized Methods & Blocks' within Multithreading & Concurrency, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'Producer-Consumer Problem' within Multithreading & Concurrency, including definitions, applications, and critical analysis.
+13. (10 Marks) Discuss the core principles of 'ExecutorService & Callable/Future' within Multithreading & Concurrency, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'java.util.concurrent Package' within Multithreading & Concurrency, including definitions, applications, and critical analysis.
+
+SECTION D: ADVANCED JAVA & DESIGN PATTERNS (40 MARKS)
+
+15. (10 Marks) Discuss the core principles of 'I/O Streams & Serialization' within Advanced Java & Design Patterns, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Networking (Socket Programming)' within Advanced Java & Design Patterns, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'JDBC & Database Connectivity' within Advanced Java & Design Patterns, including definitions, applications, and critical analysis.
+18. (10 Marks) Discuss the core principles of 'Design Patterns (Singleton, Factory, Observer, Strategy)' within Advanced Java & Design Patterns, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

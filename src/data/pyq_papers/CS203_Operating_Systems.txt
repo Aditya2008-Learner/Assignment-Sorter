@@ -1,0 +1,47 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 3 EXAMINATION
+CS203: Operating Systems (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Analyze and compare OS scheduling algorithms
+  2. Implement synchronization primitives and resolve deadlocks
+  3. Design virtual memory systems and page replacement strategies
+
+============================================================
+
+SECTION A: OS FUNDAMENTALS & PROCESS MANAGEMENT (25 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'OS Structure (Monolithic, Microkernel)' as covered in OS Fundamentals & Process Management.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Process States & Transitions' as covered in OS Fundamentals & Process Management.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Process Control Block' as covered in OS Fundamentals & Process Management.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Context Switching' as covered in OS Fundamentals & Process Management.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Inter-Process Communication (Pipes, Message Queues, Shared Memory)' as covered in OS Fundamentals & Process Management.
+
+SECTION B: CPU SCHEDULING (25 MARKS)
+
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'FCFS, SJF, SRTF' as covered in CPU Scheduling.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Round Robin, Priority Scheduling' as covered in CPU Scheduling.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Multilevel Queue & Feedback' as covered in CPU Scheduling.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Gantt Chart Construction' as covered in CPU Scheduling.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Response Time & Turnaround Analysis' as covered in CPU Scheduling.
+
+SECTION C: SYNCHRONIZATION & DEADLOCKS (30 MARKS)
+
+11. (10 Marks) Explain the conceptual mechanisms, internals, and design trade-offs of 'Race Conditions & Critical Section' from Synchronization & Deadlocks, with examples.
+12. (10 Marks) Explain the conceptual mechanisms, internals, and design trade-offs of 'Peterson's Algorithm' from Synchronization & Deadlocks, with examples.
+13. (10 Marks) Explain the Producer-Consumer bounded-buffer problem and implement it using counting semaphore `empty=0, full=0, mutex=1`. Explain how the semaphore values change with each operator invocation. Analyze how starvation is prevented.
+14. (10 Marks) Given 5 processes P0-P4 and 3 resource types A, B, C, apply Banker's Algorithm to determine if the system is in a safe state. Provide the safe sequence and prove it prevents deadlock.
+15. (10 Marks) Given 5 processes P0-P4 and 3 resource types A, B, C, apply Banker's Algorithm to determine if the system is in a safe state. Provide the safe sequence and prove it prevents deadlock.
+16. (10 Marks) Given 5 processes P0-P4 and 3 resource types A, B, C, apply Banker's Algorithm to determine if the system is in a safe state. Provide the safe sequence and prove it prevents deadlock.
+
+SECTION D: MEMORY & FILE MANAGEMENT (60 MARKS)
+
+17. (10 Marks) Explain the conceptual mechanisms, internals, and design trade-offs of 'Paging & Segmentation' from Memory & File Management, with examples.
+18. (10 Marks) Page reference string: 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2 = 13 references with 3 frames. Simulate FIFO, LRU, and Optimal page replacement and count page faults for each. Discuss Belady's Anomaly.
+19. (10 Marks) Page reference string: 7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2 = 13 references with 3 frames. Simulate FIFO, LRU, and Optimal page replacement and count page faults for each. Discuss Belady's Anomaly.
+20. (10 Marks) Explain the conceptual mechanisms, internals, and design trade-offs of 'Belady's Anomaly' from Memory & File Management, with examples.
+21. (10 Marks) Explain the conceptual mechanisms, internals, and design trade-offs of 'File System Implementations (Inode, FAT, NTFS)' from Memory & File Management, with examples.
+22. (10 Marks) Draw Gantt Charts and calculate the average waiting & turnaround times for processes P1(AT=0, BT=8), P2(AT=1, BT=4), P3(AT=2, BT=9), P4(AT=3, BT=5) under: (a) FCFS, (b) SRTF, (c) Round Robin (Quantum=2). Identify which performs best and justify.
+
+END OF QUESTION PAPER

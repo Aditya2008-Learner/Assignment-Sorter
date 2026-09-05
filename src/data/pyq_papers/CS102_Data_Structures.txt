@@ -1,0 +1,45 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 2 EXAMINATION
+CS102: Data Structures (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Implement and analyze all fundamental data structures
+  2. Select appropriate data structures for specific application domains
+  3. Analyze algorithm time and space complexity rigorously
+
+============================================================
+
+SECTION A: FUNDAMENTAL DATA STRUCTURES (15 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Arrays & Linked Lists (Singly, Doubly, Circular)' as covered in Fundamental Data Structures.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Stacks & Queues' as covered in Fundamental Data Structures.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Applications (Expression Evaluation, Polynomial Manipulation)' as covered in Fundamental Data Structures.
+
+SECTION B: TREES & BINARY TREES (30 MARKS)
+
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Binary Tree Traversals (Inorder, Preorder, Postorder)' as covered in Trees & Binary Trees.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Binary Search Trees' as covered in Trees & Binary Trees.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'AVL Trees (Rotations, Insertions, Deletions)' as covered in Trees & Binary Trees.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'B-Trees & B+ Trees' as covered in Trees & Binary Trees.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Heap & Priority Queues' as covered in Trees & Binary Trees.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Threaded Binary Trees' as covered in Trees & Binary Trees.
+
+SECTION C: GRAPH ALGORITHMS (30 MARKS)
+
+10. (10 Marks) Explain in detail the theory behind 'Graph Representations (Adjacency Matrix, List)' from Graph Algorithms, supporting with appropriate examples, pseudo-code, and complexity analysis.
+11. (10 Marks) Explain in detail the theory behind 'BFS & DFS' from Graph Algorithms, supporting with appropriate examples, pseudo-code, and complexity analysis.
+12. (10 Marks) Construct, step-by-step, a balanced binary search tree (BST) for the sequence {45, 12, 89, 34, 70, 23, 9}. Then, apply AVL rotation rules and show every single/double rotation (LL, RR, LR, RL) performed to maintain balance after inserting 55 and 61. Prove the final tree is an AVL Tree.
+13. (10 Marks) State Dijkstra's shortest path algorithm and trace it on a 6-node weighted directed graph, showing all relaxations. Why does it fail with negative edge weights? Replace it with Bellman-Ford and prove its correctness using induction.
+14. (10 Marks) Trace the Merge Sort and Quick Sort algorithms on the array [38, 27, 43, 3, 9, 82, 10]. Compare the best, average, and worst-case time complexity of both using the Master Theorem. Also, prove that comparison-based sorting cannot beat $\Omega(n \log n)$ in the worst case.
+15. (10 Marks) Explain in detail the theory behind 'Strongly Connected Components' from Graph Algorithms, supporting with appropriate examples, pseudo-code, and complexity analysis.
+
+SECTION D: HASHING, SORTING & SEARCHING (50 MARKS)
+
+16. (10 Marks) Apply separate chaining and linear probing to insert keys 27, 42, 91, 18, 52, 64 into a hash table of size 10 with hash function $h(k) = k \mod 10$. Analyze the load factor and search performance.
+17. (10 Marks) Explain in detail the theory behind 'Collision Resolution Strategies' from Hashing, Sorting & Searching, supporting with appropriate examples, pseudo-code, and complexity analysis.
+18. (10 Marks) Trace the Merge Sort and Quick Sort algorithms on the array [38, 27, 43, 3, 9, 82, 10]. Compare the best, average, and worst-case time complexity of both using the Master Theorem. Also, prove that comparison-based sorting cannot beat $\Omega(n \log n)$ in the worst case.
+19. (10 Marks) Explain in detail the theory behind 'Linear & Binary Search' from Hashing, Sorting & Searching, supporting with appropriate examples, pseudo-code, and complexity analysis.
+20. (10 Marks) Explain in detail the theory behind 'Asymptotic Complexity Analysis' from Hashing, Sorting & Searching, supporting with appropriate examples, pseudo-code, and complexity analysis.
+
+END OF QUESTION PAPER

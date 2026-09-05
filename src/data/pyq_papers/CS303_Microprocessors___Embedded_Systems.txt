@@ -1,0 +1,41 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 4 EXAMINATION
+CS303: Microprocessors & Embedded Systems (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Program the 8086 microprocessor in assembly language
+  2. Interface peripheral chips with microprocessors
+
+============================================================
+
+SECTION A: 8086 MICROPROCESSOR (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of '8086 Internal Architecture' as covered in 8086 Microprocessor.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Addressing Modes' as covered in 8086 Microprocessor.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Instruction Set & Programming' as covered in 8086 Microprocessor.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Assembly Language Programming' as covered in 8086 Microprocessor.
+
+SECTION B: I/O & INTERRUPT HANDLING (20 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'I/O Mapped vs Memory Mapped I/O' as covered in I/O & Interrupt Handling.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Interrupt Structure (INTR, NMI)' as covered in I/O & Interrupt Handling.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Interrupt Service Routines' as covered in I/O & Interrupt Handling.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'DMA Controllers (8257)' as covered in I/O & Interrupt Handling.
+
+SECTION C: PERIPHERAL INTERFACE CHIPS (20 MARKS)
+
+9. (10 Marks) Discuss the core principles of 'Programmable Peripheral Interface (8255)' within Peripheral Interface Chips, including definitions, applications, and critical analysis.
+10. (10 Marks) Discuss the core principles of 'Timer/Counter (8253/8254)' within Peripheral Interface Chips, including definitions, applications, and critical analysis.
+11. (10 Marks) Discuss the core principles of 'Programmable Interrupt Controller (8259)' within Peripheral Interface Chips, including definitions, applications, and critical analysis.
+12. (10 Marks) Discuss the core principles of 'ADC/DAC Interfacing' within Peripheral Interface Chips, including definitions, applications, and critical analysis.
+
+SECTION D: EMBEDDED SYSTEMS FUNDAMENTALS (50 MARKS)
+
+13. (10 Marks) Discuss the core principles of 'ARM Cortex-M Architecture' within Embedded Systems Fundamentals, including definitions, applications, and critical analysis.
+14. (10 Marks) Discuss the core principles of 'Embedded C Programming' within Embedded Systems Fundamentals, including definitions, applications, and critical analysis.
+15. (10 Marks) Discuss the core principles of 'RTOS Concepts' within Embedded Systems Fundamentals, including definitions, applications, and critical analysis.
+16. (10 Marks) Discuss the core principles of 'Real-Time Applications' within Embedded Systems Fundamentals, including definitions, applications, and critical analysis.
+17. (10 Marks) Discuss the core principles of 'IoT Basics' within Embedded Systems Fundamentals, including definitions, applications, and critical analysis.
+
+END OF QUESTION PAPER

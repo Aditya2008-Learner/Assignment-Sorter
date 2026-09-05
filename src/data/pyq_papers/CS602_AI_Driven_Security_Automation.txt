@@ -1,0 +1,39 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 7 EXAMINATION
+CS602: AI-Driven Security Automation (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Implement AI-based security automation solutions
+  2. Build intelligent security analytics pipelines
+
+============================================================
+
+SECTION A: SECURITY ORCHESTRATION (SOAR) (20 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'SOAR Platforms' as covered in Security Orchestration (SOAR).
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Automated Playbooks' as covered in Security Orchestration (SOAR).
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Threat Intelligence Integration' as covered in Security Orchestration (SOAR).
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Case Management' as covered in Security Orchestration (SOAR).
+
+SECTION B: NLP FOR SECURITY (20 MARKS)
+
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Phishing Email Detection with NLP' as covered in NLP for Security.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Log Analysis with NLP' as covered in NLP for Security.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Threat Report Parsing' as covered in NLP for Security.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Chatbots for Security Operations' as covered in NLP for Security.
+
+SECTION C: REINFORCEMENT LEARNING FOR SECURITY (15 MARKS)
+
+9. (10 Marks) Analyze 'RL-based Intrusion Response' from Reinforcement Learning for Security and explain its role in modern security protocols.
+10. (10 Marks) Analyze 'Adaptive Security Policies' from Reinforcement Learning for Security and explain its role in modern security protocols.
+11. (10 Marks) Analyze 'Automated Vulnerability Prioritization' from Reinforcement Learning for Security and explain its role in modern security protocols.
+
+SECTION D: SECURITY DATA ANALYTICS (40 MARKS)
+
+12. (10 Marks) Analyze 'SIEM Correlation Rules' from Security Data Analytics and explain its role in modern security protocols.
+13. (10 Marks) Analyze 'UEBA (User & Entity Behavior Analytics)' from Security Data Analytics and explain its role in modern security protocols.
+14. (10 Marks) Analyze 'Security Dashboards (Splunk, ELK)' from Security Data Analytics and explain its role in modern security protocols.
+15. (10 Marks) Analyze 'Automated Compliance Monitoring' from Security Data Analytics and explain its role in modern security protocols.
+
+END OF QUESTION PAPER

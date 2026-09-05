@@ -1,0 +1,47 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 4 EXAMINATION
+CS301: Computer Networks (Credits: 4)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Analyze and design network protocols across all OSI layers
+  2. Implement network addressing and routing strategies
+  3. Apply transport layer protocols for reliable data transfer
+
+============================================================
+
+SECTION A: NETWORK MODELS & DATA LINK LAYER (30 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'OSI & TCP/IP Models' as covered in Network Models & Data Link Layer.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Physical Layer (Encoding, Bandwidth, Latency)' as covered in Network Models & Data Link Layer.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Data Link Layer Framing' as covered in Network Models & Data Link Layer.
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Error Detection & Correction (CRC, Hamming Code)' as covered in Network Models & Data Link Layer.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Flow Control (Stop-and-Wait, Sliding Window)' as covered in Network Models & Data Link Layer.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'MAC Protocols (ALOHA, CSMA/CD, CSMA/CA)' as covered in Network Models & Data Link Layer.
+
+SECTION B: NETWORK LAYER (30 MARKS)
+
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'IPv4 & IPv6 Addressing & Subnetting' as covered in Network Layer.
+8. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'CIDR & Supernetting' as covered in Network Layer.
+9. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'NAT & PAT' as covered in Network Layer.
+10. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Routing Algorithms (RIP, OSPF, BGP)' as covered in Network Layer.
+11. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'ICMP & ARP' as covered in Network Layer.
+12. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Network Addressing & Forwarding' as covered in Network Layer.
+
+SECTION C: TRANSPORT LAYER (25 MARKS)
+
+13. (10 Marks) Describe the TCP three-way handshake and connection termination. Explain TCP flow control using sliding window and conflation of Slow Start, Congestion Avoidance, Fast Retransmit & Fast Recovery (AIMD).
+14. (10 Marks) Analyze 'Three-Way Handshake & Connection Termination' from Transport Layer and apply it to a real network scenario with diagrams.
+15. (10 Marks) Describe the TCP three-way handshake and connection termination. Explain TCP flow control using sliding window and conflation of Slow Start, Congestion Avoidance, Fast Retransmit & Fast Recovery (AIMD).
+16. (10 Marks) Analyze 'Socket Programming' from Transport Layer and apply it to a real network scenario with diagrams.
+17. (10 Marks) Analyze 'Reliable Data Transfer' from Transport Layer and apply it to a real network scenario with diagrams.
+
+SECTION D: APPLICATION LAYER & NETWORK SECURITY BASICS (50 MARKS)
+
+18. (10 Marks) Analyze 'HTTP/HTTPS, FTP, SMTP, DNS, DHCP' from Application Layer & Network Security Basics and apply it to a real network scenario with diagrams.
+19. (10 Marks) Explain CSMA/CD and CSMA/CA for LAN and WLAN MAC respectively. Show how binary exponential backoff works with a concrete collision scenario.
+20. (10 Marks) Analyze 'Firewalls & Proxies' from Application Layer & Network Security Basics and apply it to a real network scenario with diagrams.
+21. (10 Marks) Analyze 'Network Address Translation' from Application Layer & Network Security Basics and apply it to a real network scenario with diagrams.
+22. (10 Marks) Analyze 'Content Delivery Networks' from Application Layer & Network Security Basics and apply it to a real network scenario with diagrams.
+
+END OF QUESTION PAPER

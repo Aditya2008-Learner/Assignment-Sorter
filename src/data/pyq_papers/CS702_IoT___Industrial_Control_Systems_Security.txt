@@ -1,0 +1,38 @@
+B.TECH CSE (CYBER SECURITY) — SEMESTER 8 EXAMINATION
+CS702: IoT & Industrial Control Systems Security (Credits: 3)
+Duration: 3 Hours | Maximum Marks: 100
+============================================================
+
+COURSE LEARNING OUTCOMES:
+  1. Secure IoT deployments and ICS/SCADA systems
+
+============================================================
+
+SECTION A: IOT ARCHITECTURE & PROTOCOLS (15 MARKS)
+
+1. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'MQTT, CoAP, Zigbee, LoRaWAN' as covered in IoT Architecture & Protocols.
+2. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'IoT Device Lifecycle' as covered in IoT Architecture & Protocols.
+3. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Edge Computing Security' as covered in IoT Architecture & Protocols.
+
+SECTION B: ICS/SCADA SECURITY (20 MARKS)
+
+4. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'SCADA Systems Architecture' as covered in ICS/SCADA Security.
+5. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Modbus & DNP3 Protocols' as covered in ICS/SCADA Security.
+6. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'ICS-Specific Threats' as covered in ICS/SCADA Security.
+7. (5 Marks) Discuss the fundamental concepts, key definitions, and underlying principles of 'Air-Gapped Network Security' as covered in ICS/SCADA Security.
+
+SECTION C: IOT PENETRATION TESTING (20 MARKS)
+
+8. (10 Marks) Analyze 'Firmware Analysis' from IoT Penetration Testing and explain its role in modern security protocols.
+9. (10 Marks) Analyze 'Hardware Hacking (UART, JTAG)' from IoT Penetration Testing and explain its role in modern security protocols.
+10. (10 Marks) Analyze 'Wireless Protocol Attacks' from IoT Penetration Testing and explain its role in modern security protocols.
+11. (10 Marks) Analyze 'Radio Frequency Analysis' from IoT Penetration Testing and explain its role in modern security protocols.
+
+SECTION D: SMART CITY & CRITICAL INFRASTRUCTURE (40 MARKS)
+
+12. (10 Marks) Analyze 'Smart Grid Security' from Smart City & Critical Infrastructure and explain its role in modern security protocols.
+13. (10 Marks) Analyze 'Autonomous Vehicle Security' from Smart City & Critical Infrastructure and explain its role in modern security protocols.
+14. (10 Marks) Analyze 'Healthcare IoT Security' from Smart City & Critical Infrastructure and explain its role in modern security protocols.
+15. (10 Marks) Analyze 'Regulatory Compliance' from Smart City & Critical Infrastructure and explain its role in modern security protocols.
+
+END OF QUESTION PAPER
