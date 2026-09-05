@@ -46,7 +46,7 @@ Output strictly in JSON:
   "formulas": [
     {{
       "name": "Formula or Law Name",
-      "latex": "$$\\text{Equation}$$",
+      "latex": "$$\\text{{Equation}}$$",
       "explanation": "What each variable means and when to apply it"
     }}
   ],
