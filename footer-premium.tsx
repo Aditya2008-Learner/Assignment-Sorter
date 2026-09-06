@@ -1,5 +1,13 @@
 import React, { useRef, useEffect, useId, useMemo } from "react";
 
+declare global {
+  namespace JSX {
+    interface IntrinsicElements {
+      [elementName: string]: any;
+    }
+  }
+}
+
 export default function App() {
   const gradientRef = useRef<SVGSVGElement>(null);
   const gradientHeight = 420;

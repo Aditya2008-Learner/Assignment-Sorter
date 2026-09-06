@@ -101,6 +101,27 @@ const viewTitles = {
     if (rag) rag.textContent = (s.indexed_rag_chunks || 0) + ' chunks';
   }
 
+  async function renderPYQ() {
+    const subject = $('#pyq-search-subject')?.value || '';
+    const college = $('#pyq-search-college')?.value || '';
+    if (!subject) return;
+    const data = await api('/api/pyq/search?subject=' + encodeURIComponent(subject) + '&college=' + encodeURIComponent(college));
+    if (!data) return;
+    state.pyqPapers = Array.isArray(data) ? data : [];
+    const grid = $('#pyq-results-grid');
+    if (!grid) return;
+    if (state.pyqPapers.length === 0) {
+      grid.innerHTML = '<p style="color:var(--text-dim);padding:2rem;">No papers found.</p>';
+      return;
+    }
+    grid.innerHTML = state.pyqPapers.map(p => `
+      <div class="pyq-card">
+        <div style="font-weight:700;margin-bottom:0.25rem;">${escapeHtml(p.title||'Untitled')}</div>
+        <div style="font-size:0.8rem;color:var(--text-dim);">${escapeHtml(p.college||'')} &middot; Sem ${p.semester||'?'} &middot; ${p.academic_year||''}</div>
+        ${p.source_url ? `<a href="${escapeHtml(p.source_url)}" target="_blank" class="btn btn-sm btn-secondary">Source</a>` : ''}
+      </div>`).join('');
+  }
+
   /* ===== ASSIGNMENTS ===== */
   async function renderAssignments() {
     const college = $('#filter-college')?.value || '';
