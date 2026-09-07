@@ -497,6 +497,18 @@
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
   <script src="/static/js/app.js?v=2.1"></script>
 
+  <script>
+    window.showToast = function(msg, type) {
+      var c = document.querySelector('.toast-container');
+      if (!c) { c = document.createElement('div'); c.className = 'toast-container'; document.body.appendChild(c); }
+      var t = document.createElement('div');
+      t.className = 'toast toast-' + (type || 'info');
+      t.textContent = msg;
+      c.appendChild(t);
+      setTimeout(function() { t.remove(); }, 3500);
+    };
+  </script>
+
   <script src="/static/js/app.js?v=2.1"></script>
 </body></html>
 </html>
