@@ -1121,33 +1121,46 @@ class DatabaseRepo:
         conn = get_connection()
         cursor = conn.cursor()
         
-        # Get weak topics from quiz attempts
-        cursor.execute("""
-            SELECT topic, COUNT(*) as attempts, AVG(percentage) as avg_score
-            FROM quiz_attempts 
-            GROUP BY topic 
-            HAVING avg_score < 70
-            ORDER BY avg_score ASC
-            LIMIT 5
-        """)
-        weak_topics = [dict(r) for r in cursor.fetchall()]
+        # Get weak topics from quiz attempts — guard against empty table / division issues
+        try:
+            cursor.execute("""
+                SELECT topic, COUNT(*) as attempts, COALESCE(AVG(percentage), 0) as avg_score
+                FROM quiz_attempts 
+                GROUP BY topic 
+                HAVING COUNT(*) > 0
+                ORDER BY avg_score ASC
+                LIMIT 5
+            """)
+            weak_topics_raw = cursor.fetchall()
+            weak_topics = [{"topic": r[0], "attempts": r[1], "avg_score": round(r[2], 1) if r[2] else 0} for r in weak_topics_raw]
+        except Exception:
+            weak_topics = []
         
-        # Get topics not yet studied
-        cursor.execute("""
-            SELECT DISTINCT course_code, topic_name FROM topic_content
-            WHERE (course_code, topic_name) NOT IN 
-            (SELECT subject, topic FROM learning_progress WHERE status = 'Completed')
-        """)
-        unstudied = [dict(r) for r in cursor.fetchall()][:5]
+        # Topics not yet studied
+        try:
+            cursor.execute("""
+                SELECT DISTINCT course_code, topic_name FROM topic_content
+                WHERE (course_code, topic_name) NOT IN 
+                (SELECT subject, topic FROM learning_progress WHERE status = 'Completed')
+                LIMIT 5
+            """)
+            unstudied_raw = cursor.fetchall()
+            unstudied = [{"course_code": r[0], "topic_name": r[1]} for r in unstudied_raw]
+        except Exception:
+            unstudied = []
         
-        # Get recently completed topics for review
-        cursor.execute("""
-            SELECT subject, topic FROM learning_progress 
-            WHERE status = 'Completed' 
-            ORDER BY last_accessed DESC 
-            LIMIT 3
-        """)
-        review_topics = [dict(r) for r in cursor.fetchall()]
+        # Completed topics for review
+        try:
+            cursor.execute("""
+                SELECT subject, topic FROM learning_progress 
+                WHERE status = 'Completed' 
+                ORDER BY last_accessed DESC 
+                LIMIT 3
+            """)
+            review_raw = cursor.fetchall()
+            review_topics = [{"subject": r[0], "topic": r[1]} for r in review_raw]
+        except Exception:
+            review_topics = []
         
         conn.close()
         
